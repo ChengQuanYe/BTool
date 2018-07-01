@@ -10,4 +10,6 @@
 
 @interface BTool : NSObject
 
++ (void)helloWorld;
+
 @end

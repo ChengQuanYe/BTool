@@ -10,4 +10,9 @@
 
 @implementation BTool
 
++ (void)helloWorld
+{
+    NSLog(@"helloworld----");
+}
+
 @end
